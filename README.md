@@ -1,7 +1,7 @@
-# Projeto Integrador
-aula 3, 18/3/2024
-<h1 align="center">Projeto Integrador - Eng. de Software</h1>
-<p>Um repositório teste para o aprendizado de git, github e cronogramas no project libre. E para gerenciamento dos arquivos do projeto integrador I.</p>
+# Projeto Integrador I
+Primeiro Semestre 2024
+<h1 align="center">Projeto Integrador I - Eng. de Software</h1>
+<p>Um repositório para gerenciamento dos arquivos do projeto integrador I.</p>
 <p>
 
 ## 🖥️ Tecnologias
@@ -10,8 +10,9 @@ aula 3, 18/3/2024
 
   - Project Libre
   - Git e github
-  - Python
+  - Python 3.2
   - Biblioteca Pandas
+  - OracleDB
 
 </p>
 
@@ -27,13 +28,6 @@ aula 3, 18/3/2024
   </button>
 </h2>
 <p align="center">
-  Com apoio da <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiAvLb32_2EAxVtFLkGHWfADCMQFnoECA8QAQ&url=https%3A%2F%2Fwww.puc-campinas.edu.br%2F&usg=AOvVaw27CqSDKC0Qhe6GMMnuGQXt&opi=89978449">PUC Campinas</a>
-</p>
-
-## ℹ️ Detalhes:
-
-<p align="center">
-<h2 align="center">
-  Colocar o usuário e senha do banco de dados PUC, e, caso não esteja na internet da PUC, entre pelo VPN-PUC, BD-ACD
+  Bacharelado em Engenharia de Software <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiAvLb32_2EAxVtFLkGHWfADCMQFnoECA8QAQ&url=https%3A%2F%2Fwww.puc-campinas.edu.br%2F&usg=AOvVaw27CqSDKC0Qhe6GMMnuGQXt&opi=89978449">PUC Campinas</a>
 </p>
 
